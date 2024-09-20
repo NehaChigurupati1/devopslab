@@ -8,3 +8,6 @@ print("\n The Employee salaries are:")
 print("------------------------------------")
 for i in emp['esal']:
     print(i)
+
+# Sample Task:You have to implement
+# I am making changes
